@@ -1,0 +1,852 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "slug": "the-ultimate-guide-to-beginner-capsule-wardrobe-plan",
+      "title": "The Ultimate Guide to Beginner Capsule Wardrobe Plan",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214132",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: The Ultimate Guide to Beginner Capsule Wardrobe Plan",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 2,
+      "slug": "beginner-capsule-wardrobe-plan-everything-you-need-to-know",
+      "title": "Beginner Capsule Wardrobe Plan: Everything You Need to Know",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214187",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Beginner Capsule Wardrobe Plan: Everything You Need to Know",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 3,
+      "slug": "understanding-beginner-capsule-wardrobe-plan",
+      "title": "Understanding Beginner Capsule Wardrobe Plan",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214220",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Understanding Beginner Capsule Wardrobe Plan",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 4,
+      "slug": "beginner-capsule-wardrobe-plan-tips-and-best-practices",
+      "title": "Beginner Capsule Wardrobe Plan Tips and Best Practices",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214252",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Beginner Capsule Wardrobe Plan Tips and Best Practices",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 5,
+      "slug": "the-history-of-beginner-capsule-wardrobe-plan",
+      "title": "The History of Beginner Capsule Wardrobe Plan",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214285",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: The History of Beginner Capsule Wardrobe Plan",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 6,
+      "slug": "beginner-capsule-wardrobe-plan-in-2026-current-trends",
+      "title": "Beginner Capsule Wardrobe Plan in 2026: Current Trends",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214315",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Beginner Capsule Wardrobe Plan in 2026: Current Trends",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 7,
+      "slug": "future-of-beginner-capsule-wardrobe-plan",
+      "title": "Future of Beginner Capsule Wardrobe Plan",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214346",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Future of Beginner Capsule Wardrobe Plan",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 8,
+      "slug": "common-mistakes-in-beginner-capsule-wardrobe-plan",
+      "title": "Common Mistakes in Beginner Capsule Wardrobe Plan",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214376",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Common Mistakes in Beginner Capsule Wardrobe Plan",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 9,
+      "slug": "beginner-capsule-wardrobe-plan-for-beginners",
+      "title": "Beginner Capsule Wardrobe Plan for Beginners",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214406",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Beginner Capsule Wardrobe Plan for Beginners",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 10,
+      "slug": "advanced-beginner-capsule-wardrobe-plan-techniques",
+      "title": "Advanced Beginner Capsule Wardrobe Plan Techniques",
+      "category": "beginner-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214434",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Advanced Beginner Capsule Wardrobe Plan Techniques",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 19,
+      "slug": "the-ultimate-guide-to-advanced-capsule-wardrobe-plan",
+      "title": "The Ultimate Guide to Advanced Capsule Wardrobe Plan",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214690",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: The Ultimate Guide to Advanced Capsule Wardrobe Plan",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 20,
+      "slug": "advanced-capsule-wardrobe-plan-everything-you-need-to-know",
+      "title": "Advanced Capsule Wardrobe Plan: Everything You Need to Know",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214719",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan: Everything You Need to Know",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 21,
+      "slug": "understanding-advanced-capsule-wardrobe-plan",
+      "title": "Understanding Advanced Capsule Wardrobe Plan",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214750",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Understanding Advanced Capsule Wardrobe Plan",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 22,
+      "slug": "advanced-capsule-wardrobe-plan-tips-and-best-practices",
+      "title": "Advanced Capsule Wardrobe Plan Tips and Best Practices",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214781",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan Tips and Best Practices",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 23,
+      "slug": "the-history-of-advanced-capsule-wardrobe-plan",
+      "title": "The History of Advanced Capsule Wardrobe Plan",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214809",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: The History of Advanced Capsule Wardrobe Plan",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 24,
+      "slug": "advanced-capsule-wardrobe-plan-in-2026-current-trends",
+      "title": "Advanced Capsule Wardrobe Plan in 2026: Current Trends",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214838",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan in 2026: Current Trends",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 25,
+      "slug": "future-of-advanced-capsule-wardrobe-plan",
+      "title": "Future of Advanced Capsule Wardrobe Plan",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214867",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Future of Advanced Capsule Wardrobe Plan",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 26,
+      "slug": "common-mistakes-in-advanced-capsule-wardrobe-plan",
+      "title": "Common Mistakes in Advanced Capsule Wardrobe Plan",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214895",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Common Mistakes in Advanced Capsule Wardrobe Plan",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 27,
+      "slug": "advanced-capsule-wardrobe-plan-for-beginners",
+      "title": "Advanced Capsule Wardrobe Plan for Beginners",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214923",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan for Beginners",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 28,
+      "slug": "advanced-advanced-capsule-wardrobe-plan-techniques",
+      "title": "Advanced Advanced Capsule Wardrobe Plan Techniques",
+      "category": "advanced-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.214952",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Advanced Advanced Capsule Wardrobe Plan Techniques",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 37,
+      "slug": "the-ultimate-guide-to-capsule-wardrobe-plan-tips",
+      "title": "The Ultimate Guide to Capsule Wardrobe Plan Tips",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215204",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: The Ultimate Guide to Capsule Wardrobe Plan Tips",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 38,
+      "slug": "capsule-wardrobe-plan-tips-everything-you-need-to-know",
+      "title": "Capsule Wardrobe Plan Tips: Everything You Need to Know",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215233",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tips: Everything You Need to Know",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 39,
+      "slug": "understanding-capsule-wardrobe-plan-tips",
+      "title": "Understanding Capsule Wardrobe Plan Tips",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215261",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Understanding Capsule Wardrobe Plan Tips",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 40,
+      "slug": "capsule-wardrobe-plan-tips-tips-and-best-practices",
+      "title": "Capsule Wardrobe Plan Tips Tips and Best Practices",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215289",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tips Tips and Best Practices",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 41,
+      "slug": "the-history-of-capsule-wardrobe-plan-tips",
+      "title": "The History of Capsule Wardrobe Plan Tips",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215321",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: The History of Capsule Wardrobe Plan Tips",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 42,
+      "slug": "capsule-wardrobe-plan-tips-in-2026-current-trends",
+      "title": "Capsule Wardrobe Plan Tips in 2026: Current Trends",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215350",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tips in 2026: Current Trends",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 43,
+      "slug": "future-of-capsule-wardrobe-plan-tips",
+      "title": "Future of Capsule Wardrobe Plan Tips",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215382",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Future of Capsule Wardrobe Plan Tips",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 44,
+      "slug": "common-mistakes-in-capsule-wardrobe-plan-tips",
+      "title": "Common Mistakes in Capsule Wardrobe Plan Tips",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215411",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Common Mistakes in Capsule Wardrobe Plan Tips",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 45,
+      "slug": "capsule-wardrobe-plan-tips-for-beginners",
+      "title": "Capsule Wardrobe Plan Tips for Beginners",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215441",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tips for Beginners",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 46,
+      "slug": "advanced-capsule-wardrobe-plan-tips-techniques",
+      "title": "Advanced Capsule Wardrobe Plan Tips Techniques",
+      "category": "tips-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215469",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan Tips Techniques",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 55,
+      "slug": "the-ultimate-guide-to-capsule-wardrobe-plan-history",
+      "title": "The Ultimate Guide to Capsule Wardrobe Plan History",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215719",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: The Ultimate Guide to Capsule Wardrobe Plan History",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 56,
+      "slug": "capsule-wardrobe-plan-history-everything-you-need-to-know",
+      "title": "Capsule Wardrobe Plan History: Everything You Need to Know",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215748",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Capsule Wardrobe Plan History: Everything You Need to Know",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 57,
+      "slug": "understanding-capsule-wardrobe-plan-history",
+      "title": "Understanding Capsule Wardrobe Plan History",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215778",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Understanding Capsule Wardrobe Plan History",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 58,
+      "slug": "capsule-wardrobe-plan-history-tips-and-best-practices",
+      "title": "Capsule Wardrobe Plan History Tips and Best Practices",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215806",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Capsule Wardrobe Plan History Tips and Best Practices",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 59,
+      "slug": "the-history-of-capsule-wardrobe-plan-history",
+      "title": "The History of Capsule Wardrobe Plan History",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215834",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: The History of Capsule Wardrobe Plan History",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 60,
+      "slug": "capsule-wardrobe-plan-history-in-2026-current-trends",
+      "title": "Capsule Wardrobe Plan History in 2026: Current Trends",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215862",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Capsule Wardrobe Plan History in 2026: Current Trends",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 61,
+      "slug": "future-of-capsule-wardrobe-plan-history",
+      "title": "Future of Capsule Wardrobe Plan History",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215892",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Future of Capsule Wardrobe Plan History",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 62,
+      "slug": "common-mistakes-in-capsule-wardrobe-plan-history",
+      "title": "Common Mistakes in Capsule Wardrobe Plan History",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215922",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Common Mistakes in Capsule Wardrobe Plan History",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 63,
+      "slug": "capsule-wardrobe-plan-history-for-beginners",
+      "title": "Capsule Wardrobe Plan History for Beginners",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215952",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Capsule Wardrobe Plan History for Beginners",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 64,
+      "slug": "advanced-capsule-wardrobe-plan-history-techniques",
+      "title": "Advanced Capsule Wardrobe Plan History Techniques",
+      "category": "history-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.215980",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan History Techniques",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 73,
+      "slug": "the-ultimate-guide-to-trending-capsule-wardrobe-plan",
+      "title": "The Ultimate Guide to Trending Capsule Wardrobe Plan",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216235",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: The Ultimate Guide to Trending Capsule Wardrobe Plan",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 74,
+      "slug": "trending-capsule-wardrobe-plan-everything-you-need-to-know",
+      "title": "Trending Capsule Wardrobe Plan: Everything You Need to Know",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216264",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Trending Capsule Wardrobe Plan: Everything You Need to Know",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 75,
+      "slug": "understanding-trending-capsule-wardrobe-plan",
+      "title": "Understanding Trending Capsule Wardrobe Plan",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216293",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Understanding Trending Capsule Wardrobe Plan",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 76,
+      "slug": "trending-capsule-wardrobe-plan-tips-and-best-practices",
+      "title": "Trending Capsule Wardrobe Plan Tips and Best Practices",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216321",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Trending Capsule Wardrobe Plan Tips and Best Practices",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 77,
+      "slug": "the-history-of-trending-capsule-wardrobe-plan",
+      "title": "The History of Trending Capsule Wardrobe Plan",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216350",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: The History of Trending Capsule Wardrobe Plan",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 78,
+      "slug": "trending-capsule-wardrobe-plan-in-2026-current-trends",
+      "title": "Trending Capsule Wardrobe Plan in 2026: Current Trends",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216378",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Trending Capsule Wardrobe Plan in 2026: Current Trends",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 79,
+      "slug": "future-of-trending-capsule-wardrobe-plan",
+      "title": "Future of Trending Capsule Wardrobe Plan",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216406",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Future of Trending Capsule Wardrobe Plan",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 80,
+      "slug": "common-mistakes-in-trending-capsule-wardrobe-plan",
+      "title": "Common Mistakes in Trending Capsule Wardrobe Plan",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216434",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Common Mistakes in Trending Capsule Wardrobe Plan",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 81,
+      "slug": "trending-capsule-wardrobe-plan-for-beginners",
+      "title": "Trending Capsule Wardrobe Plan for Beginners",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216463",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Trending Capsule Wardrobe Plan for Beginners",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 82,
+      "slug": "advanced-trending-capsule-wardrobe-plan-techniques",
+      "title": "Advanced Trending Capsule Wardrobe Plan Techniques",
+      "category": "trending-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216490",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Advanced Trending Capsule Wardrobe Plan Techniques",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 91,
+      "slug": "the-ultimate-guide-to-capsule-wardrobe-plan-tutorials",
+      "title": "The Ultimate Guide to Capsule Wardrobe Plan Tutorials",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216742",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: The Ultimate Guide to Capsule Wardrobe Plan Tutorials",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 92,
+      "slug": "capsule-wardrobe-plan-tutorials-everything-you-need-to-know",
+      "title": "Capsule Wardrobe Plan Tutorials: Everything You Need to Know",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216770",
+      "image": {
+        "id": "231aed5e581a177032d9c81c9daf05cb6113b224717183c780fc88bfdf19bf5c",
+        "url": "https://picsum.photos/1120/405?random=259",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tutorials: Everything You Need to Know",
+        "width": 1120,
+        "height": 405
+      }
+    },
+    {
+      "id": 93,
+      "slug": "understanding-capsule-wardrobe-plan-tutorials",
+      "title": "Understanding Capsule Wardrobe Plan Tutorials",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216799",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Understanding Capsule Wardrobe Plan Tutorials",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 94,
+      "slug": "capsule-wardrobe-plan-tutorials-tips-and-best-practices",
+      "title": "Capsule Wardrobe Plan Tutorials Tips and Best Practices",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216828",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tutorials Tips and Best Practices",
+        "width": 825,
+        "height": 502
+      }
+    },
+    {
+      "id": 95,
+      "slug": "the-history-of-capsule-wardrobe-plan-tutorials",
+      "title": "The History of Capsule Wardrobe Plan Tutorials",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216858",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: The History of Capsule Wardrobe Plan Tutorials",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 96,
+      "slug": "capsule-wardrobe-plan-tutorials-in-2026-current-trends",
+      "title": "Capsule Wardrobe Plan Tutorials in 2026: Current Trends",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216888",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tutorials in 2026: Current Trends",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 97,
+      "slug": "future-of-capsule-wardrobe-plan-tutorials",
+      "title": "Future of Capsule Wardrobe Plan Tutorials",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216920",
+      "image": {
+        "id": "63788a41514a74f2b7160078a22829bf553630753a80011cfd656132ad580adb",
+        "url": "https://picsum.photos/1101/543?random=139",
+        "alt": "Featured image for: Future of Capsule Wardrobe Plan Tutorials",
+        "width": 1101,
+        "height": 543
+      }
+    },
+    {
+      "id": 98,
+      "slug": "common-mistakes-in-capsule-wardrobe-plan-tutorials",
+      "title": "Common Mistakes in Capsule Wardrobe Plan Tutorials",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216950",
+      "image": {
+        "id": "18d980615052a71e85d099954c90c79e7ea5f14a8c2b857ea3f7ec35a5885ea7",
+        "url": "https://picsum.photos/1093/475?random=105",
+        "alt": "Featured image for: Common Mistakes in Capsule Wardrobe Plan Tutorials",
+        "width": 1093,
+        "height": 475
+      }
+    },
+    {
+      "id": 99,
+      "slug": "capsule-wardrobe-plan-tutorials-for-beginners",
+      "title": "Capsule Wardrobe Plan Tutorials for Beginners",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.216980",
+      "image": {
+        "id": "7dcb422ea9a7acc25dbd905512c2ed21b88fa9825ba9832100a27dc4a9e5d7d6",
+        "url": "https://picsum.photos/1013/431?random=585",
+        "alt": "Featured image for: Capsule Wardrobe Plan Tutorials for Beginners",
+        "width": 1013,
+        "height": 431
+      }
+    },
+    {
+      "id": 100,
+      "slug": "advanced-capsule-wardrobe-plan-tutorials-techniques",
+      "title": "Advanced Capsule Wardrobe Plan Tutorials Techniques",
+      "category": "tutorials-capsule-wardrobe-plan",
+      "created_at": "2026-06-04T11:35:06.217008",
+      "image": {
+        "id": "76926f458c46b0915143c3f80f586a93d565de9a72e1a634e1abf2941c23bb40",
+        "url": "https://picsum.photos/825/502?random=497",
+        "alt": "Featured image for: Advanced Capsule Wardrobe Plan Tutorials Techniques",
+        "width": 825,
+        "height": 502
+      }
+    }
+  ],
+  "categories": [
+    "beginner-capsule-wardrobe-plan",
+    "advanced-capsule-wardrobe-plan",
+    "tips-capsule-wardrobe-plan",
+    "history-capsule-wardrobe-plan",
+    "trending-capsule-wardrobe-plan",
+    "tutorials-capsule-wardrobe-plan"
+  ]
+}

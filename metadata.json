@@ -1,0 +1,59 @@
+{
+  "siteId": "capsule-wardrobe-plan",
+  "generatedAt": "2026-06-04T11:35:06.270865",
+  "categories": [
+    "beginner-capsule-wardrobe-plan",
+    "advanced-capsule-wardrobe-plan",
+    "tips-capsule-wardrobe-plan",
+    "history-capsule-wardrobe-plan",
+    "trending-capsule-wardrobe-plan",
+    "tutorials-capsule-wardrobe-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-capsule-wardrobe-plan",
+      "category_name": "Beginner Capsule Wardrobe Plan"
+    },
+    {
+      "category_slug": "advanced-capsule-wardrobe-plan",
+      "category_name": "Advanced Capsule Wardrobe Plan"
+    },
+    {
+      "category_slug": "tips-capsule-wardrobe-plan",
+      "category_name": "Capsule Wardrobe Plan Tips"
+    },
+    {
+      "category_slug": "history-capsule-wardrobe-plan",
+      "category_name": "Capsule Wardrobe Plan History"
+    },
+    {
+      "category_slug": "trending-capsule-wardrobe-plan",
+      "category_name": "Trending Capsule Wardrobe Plan"
+    },
+    {
+      "category_slug": "tutorials-capsule-wardrobe-plan",
+      "category_name": "Capsule Wardrobe Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "capsule-wardrobe-plan",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Capsule Wardrobe Plan Central",
+    "articles_per_row": 3
+  }
+}

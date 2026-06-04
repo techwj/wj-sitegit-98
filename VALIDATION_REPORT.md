@@ -1,0 +1,88 @@
+# Validation Report - capsule-wardrobe-plan
+
+Generated: 2026-06-04T11:35:06.270353
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Capsule Wardrobe Plan
+- ✓ Article word count OK: Beginner Capsule Wardrobe Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Capsule Wardrobe Plan
+- ✓ Article word count OK: Beginner Capsule Wardrobe Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Capsule Wardrobe Plan
+- ✓ Article word count OK: Beginner Capsule Wardrobe Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Capsule Wardrobe Plan
+- ✓ Article word count OK: Common Mistakes in Beginner Capsule Wardrobe Plan
+- ✓ Article word count OK: Beginner Capsule Wardrobe Plan for Beginners
+- ✓ Article word count OK: Advanced Beginner Capsule Wardrobe Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Capsule Wardrobe Plan
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Capsule Wardrobe Plan
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Capsule Wardrobe Plan
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Capsule Wardrobe Plan
+- ✓ Article word count OK: Common Mistakes in Advanced Capsule Wardrobe Plan
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan for Beginners
+- ✓ Article word count OK: Advanced Advanced Capsule Wardrobe Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Capsule Wardrobe Plan Tips
+- ✓ Article word count OK: Capsule Wardrobe Plan Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Capsule Wardrobe Plan Tips
+- ✓ Article word count OK: Capsule Wardrobe Plan Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Capsule Wardrobe Plan Tips
+- ✓ Article word count OK: Capsule Wardrobe Plan Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Capsule Wardrobe Plan Tips
+- ✓ Article word count OK: Common Mistakes in Capsule Wardrobe Plan Tips
+- ✓ Article word count OK: Capsule Wardrobe Plan Tips for Beginners
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Capsule Wardrobe Plan History
+- ✓ Article word count OK: Capsule Wardrobe Plan History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Capsule Wardrobe Plan History
+- ✓ Article word count OK: Capsule Wardrobe Plan History Tips and Best Practices
+- ✓ Article word count OK: The History of Capsule Wardrobe Plan History
+- ✓ Article word count OK: Capsule Wardrobe Plan History in 2026: Current Trends
+- ✓ Article word count OK: Future of Capsule Wardrobe Plan History
+- ✓ Article word count OK: Common Mistakes in Capsule Wardrobe Plan History
+- ✓ Article word count OK: Capsule Wardrobe Plan History for Beginners
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Capsule Wardrobe Plan
+- ✓ Article word count OK: Trending Capsule Wardrobe Plan: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Capsule Wardrobe Plan
+- ✓ Article word count OK: Trending Capsule Wardrobe Plan Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Capsule Wardrobe Plan
+- ✓ Article word count OK: Trending Capsule Wardrobe Plan in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Capsule Wardrobe Plan
+- ✓ Article word count OK: Common Mistakes in Trending Capsule Wardrobe Plan
+- ✓ Article word count OK: Trending Capsule Wardrobe Plan for Beginners
+- ✓ Article word count OK: Advanced Trending Capsule Wardrobe Plan Techniques
+- ✓ Article word count OK: The Ultimate Guide to Capsule Wardrobe Plan Tutorials
+- ✓ Article word count OK: Capsule Wardrobe Plan Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Capsule Wardrobe Plan Tutorials
+- ✓ Article word count OK: Capsule Wardrobe Plan Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Capsule Wardrobe Plan Tutorials
+- ✓ Article word count OK: Capsule Wardrobe Plan Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Capsule Wardrobe Plan Tutorials
+- ✓ Article word count OK: Common Mistakes in Capsule Wardrobe Plan Tutorials
+- ✓ Article word count OK: Capsule Wardrobe Plan Tutorials for Beginners
+- ✓ Article word count OK: Advanced Capsule Wardrobe Plan Tutorials Techniques
+- ✓ Ad configuration validated
